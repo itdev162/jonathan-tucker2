@@ -1,0 +1,12 @@
+/Users/pawn/jonathan-tucker2/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/pawn/jonathan-tucker2/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/pawn/jonathan-tucker2/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/pawn/jonathan-tucker2/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/pawn/jonathan-tucker2/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/pawn/jonathan-tucker2/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
